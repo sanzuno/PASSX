@@ -1,8 +1,10 @@
-
 body {
     background-color: #131413; 
     color: rgb(70, 209, 70); 
 }
+
+
+
 * {
     margin: 0;
     padding: 0;
@@ -61,7 +63,6 @@ h1, h2, h3 {
     font-weight: 900;
 
 }
-
 .btn{
     padding: 8px 17px;
     background: black;
@@ -72,7 +73,6 @@ h1, h2, h3 {
     margin: 25px 0;
     cursor: pointer;
 }
-
 .btnsm{ 
     padding: 8px 17px;
     background: black;
